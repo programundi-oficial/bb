@@ -1,0 +1,15 @@
+{
+  "name": "BluetoothPrinter",
+  "version": "0.0.1",
+  "author": "Rodrigo",
+  "homepage": "https://github.com/srehanuddin/Cordova-Plugin-Bluetooth-Printer/",
+  "private": true,
+  "scripts": {
+    "clean": "ionic-app-scripts clean",
+    "build": "ionic-app-scripts build",
+    "lint": "ionic-app-scripts lint",
+    "ionic:build": "ionic-app-scripts build",
+    "ionic:serve": "ionic-app-scripts serve"
+  },
+  "description": "An Ionic project"
+}
